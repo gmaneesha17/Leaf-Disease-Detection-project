@@ -1,0 +1,1 @@
+In my project on leaf disease detection, I utilize digital image processing techniques to identify and classify plant diseases. The process involves acquiring high-quality leaf images, preprocessing them to enhance clarity, and applying machine learning models for accurate disease detection. This approach helps in diagnosing plant health conditions efficiently.
